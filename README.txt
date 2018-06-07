@@ -1,11 +1,11 @@
 Instrucciones:
 
 1.	Iniciar el servicio REST ingresando "node app.js" seguido de "ENTER" en consola dentro de la carpeta "Servicio REST" (Requiere tener instalado Node.js).
-	Cuando el servidor inicie, el cursos quedará parpadeando, eso significa que el servicio está disponible.
+	Cuando el servidor inicie, el cursor quedará parpadeando, eso significa que el servicio está disponible.
 	Para apagar este servidor, en la línea de comandos pulsar las teclas "Ctrl" + "C".
 	
 	En caso de presentarse problemas en la ejecución del servicio, utilizar el servidor alternativo Json Server.
-	Para ejecutarlo, ingresar "json-server --watch granos.json" en la consoola dentro de la carpeta "JSON SERVER".
+	Para ejecutarlo, ingresar "json-server --watch granos.json" en la consola dentro de la carpeta "JSON SERVER".
 	Cuando el servicio inicie, mostrará estos mensajes en la pantalla:
 		\{^_^}/ hi!
 
